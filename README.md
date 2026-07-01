@@ -116,3 +116,10 @@
 > ---
 >
 > *Part of my cybersecurity portfolio — Qadeer Hussain | BSc Computing @ Arden University*
+
+> ---
+> >
+> >> ## 📄 License
+> >> >
+> >> >> This project is licensed under the [MIT License](LICENSE) — see the LICENSE file for details.
+> >> >> 
