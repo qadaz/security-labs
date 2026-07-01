@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Security tooling / lab artifacts (avoid committing sensitive output)
+*.pcap
+*.pcapng
+*.nessus
+scans/
+loot/
+creds/
+*.key
+*.pem
+*.env
+.env
